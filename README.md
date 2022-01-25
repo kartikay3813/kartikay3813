@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kartikay3813
 - 👀 I’m interested in ... Travelling
-- 🌱 I’m currently learning ...scala language
+- 🌱 I’m currently learning ...Dev0ps
 - 💞️ I’m looking to collaborate on ...Multinational company
 - 📫 How to reach me ...9758958297
 
