@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kartikay3813
-- 👀 I’m interested in ... Travelling
-- 🌱 I’m currently learning ...Dev0ps
+- 👀 I’m interested in Learning new technologies
+- 🌱 I’m currently working as Dev0ps Eng.
 - 💞️ I’m looking to collaborate on ...Multinational company
 - 📫 How to reach me ...9758958297
 
